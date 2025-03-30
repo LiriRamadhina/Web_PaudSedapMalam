@@ -1,43 +1,25 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/ngajar.jpg
-heading: Great coffee with a conscience
+title: 
+image: /img/paudsedapmalam.png
+heading: Program Kegiatan Kegiatan Paud Sedap Malam 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Sekolah Paud Sedap Malam adalah tempat belajar yang mengedepankan pendekatan holistik dan menyenangkan untuk anak usia dini. Di sini, kegiatan pembelajaran dirancang secara interaktif dan variatif agar setiap anak dapat tumbuh secara optimal baik secara fisik, kognitif, sosial, maupun emosional.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/mewarnaipaud.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Anak-anak PAUD Sedap Malam dengan penuh semangat mengikuti kegiatan Lomba Mewarnai yang diselenggarakan di area terbuka yang asri. kegiatan ini bertujuan untuk meningkatkan motorik halus, melatih konsentrasi, serta menumbuhkan rasa percaya diri dalam berkarya.
+    - image: /img/belajardalamkelas.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Anak-anak dengan antusias mengikuti kegiatan membaca dan menulis yang dibimbing oleh guru. Dengan metode pembelajaran yang menyenangkan, mereka belajar mengenal huruf, angka, dan menggambar dengan penuh kreativitas.Kegiatan ini bertujuan untuk meningkatkan keterampilan dasar membaca dan menulis, sekaligus melatih motorik halus anak-anak. Lingkungan kelas yang nyaman serta bimbingan yang penuh kasih sayang dari para pendidik menciptakan pengalaman belajar yang positif bagi setiap anak.
+    - image: /img/gizipaud.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Makanan yang disajikan mencakup sumber karbohidrat, protein, dan serat, serta minuman bernutrisi yang mendukung energi dan daya tahan tubuh anak. Selain memastikan kebutuhan gizi terpenuhi, kegiatan makan bersama juga mengajarkan anak-anak tentang pentingnya pola makan sehat, kebersihan sebelum dan sesudah makan, serta kebiasaan berbagi dengan teman-teman mereka.
+    - image: /img/barissedapmalam.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Setiap pagi sebelum memulai kegiatan belajar, anak-anak PAUD Sedap Malam melaksanakan kegiatan baris pagi di halaman sekolah. Dalam foto ini, tampak para siswa dengan seragam biru berbaris rapi sambil mendengarkan arahan dari guru mereka.Kegiatan ini bertujuan untuk menanamkan disiplin, kebersamaan, dan kesiapan belajar sejak dini. Selain itu, baris pagi juga menjadi momen bagi guru untuk memberikan motivasi, doa bersama, serta mengingatkan aturan sekolah agar anak-anak semakin semangat dalam mengikuti pembelajaran.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,37 +27,30 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Photo Bersama Murid Dan Ibu Guru Paud Sedap Malam 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+   Kegiatan foto bersama ini bukan sekadar mengabadikan kenangan, tetapi juga mencerminkan eratnya hubungan antara guru dan siswa di lingkungan PAUD Sedap Malam. Kebersamaan dan keharmonisan yang terjalin menciptakan suasana belajar yang nyaman dan menyenangkan bagi anak-anak.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/bidan.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/depansekolah.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/kuningpaud.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Bunda Siti
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      PAUD Sedap Malam memberikan pengalaman belajar yang menyenangkan bagi anak saya. Guru-gurunya sangat sabar dan peduli terhadap perkembangan setiap anak.
+  - author: Bapak Andi
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Saya sangat puas dengan pendidikan di PAUD Sedap Malam. Anak saya menjadi lebih percaya diri, mandiri, dan aktif dalam berbagai kegiatan.
+full_image: /img/penerimaan.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Program Pendidikan PAUD SEDAP MALAM
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    PAUD Sedap Malam menawarkan berbagai program pendidikan yang dirancang untuk mendukung perkembangan anak usia dini. Program ini mencakup pembelajaran berbasis bermain, kegiatan kreativitas, serta stimulasi motorik dan kognitif. Kami berkomitmen untuk menciptakan lingkungan belajar yang menyenangkan dan edukatif bagi setiap anak.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
