@@ -1,33 +1,39 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Mengenal Lebih Dekat PAUD Sedap Malam
+date: 2025-04-14T10:00:00.000Z
+featuredpost: true
+featuredimage: /img/mengenalpaud.jpg
+description: PAUD Sedap Malam hadir sebagai tempat tumbuh dan berkembangnya anak-anak usia dini dalam suasana belajar yang menyenangkan dan penuh kasih sayang.
 tags:
-  - flavor
-  - tasting
+  - paud
+  - pendidikan
+  - anak
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/mengenalpaud.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+PAUD Sedap Malam merupakan lembaga pendidikan anak usia dini yang berdedikasi dalam memberikan pengalaman belajar terbaik bagi anak-anak usia 0–6 tahun. Dengan metode pembelajaran yang menyenangkan dan interaktif, PAUD ini menjadi tempat yang aman, nyaman, dan mendukung tumbuh kembang anak secara optimal.
 
 ## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Mengapa Memilih PAUD Sedap Malam?
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Di PAUD Sedap Malam, setiap anak dipandang sebagai individu unik yang memiliki potensi luar biasa. Kami percaya bahwa pendidikan terbaik dimulai sejak usia dini, dan melalui pendekatan bermain sambil belajar, anak-anak belajar mengenal dunia di sekitar mereka dengan cara yang menyenangkan.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Beberapa hal yang menjadi keunggulan kami:
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Guru-guru yang profesional dan penuh kasih sayang
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Program belajar yang dirancang sesuai dengan tahap perkembangan anak
+
+Kegiatan kreatif seperti menggambar, menyanyi, menari, hingga bermain peran
+
+Lingkungan sekolah yang bersih, aman, dan ramah anak
+
+Keterlibatan aktif orang tua dalam mendukung proses pembelajaran
+
+Komitmen Kami
+
+PAUD Sedap Malam berkomitmen menciptakan generasi masa depan yang cerdas, mandiri, dan berkarakter. Melalui pembelajaran yang menyenangkan dan penguatan nilai-nilai moral sejak dini, kami ingin menjadi bagian dari fondasi pendidikan anak-anak Indonesia.
+
+Ayo bergabung bersama keluarga besar PAUD Sedap Malam dan tumbuhlah bersama kami!

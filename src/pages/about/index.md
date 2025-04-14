@@ -3,17 +3,21 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Sejarah Paud Sedap Malam 
+PAUD Sedap Malam didirikan dengan tujuan memberikan pendidikan usia dini yang berkualitas bagi anak-anak di lingkungan sekitar. Berawal dari kepedulian terhadap pentingnya pendidikan dasar bagi anak-anak usia dini, PAUD Sedap Malam mulai beroperasi pada tahun .... dengan fasilitas sederhana dan tenaga pengajar yang berdedikasi.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Seiring berjalannya waktu, PAUD Sedap Malam terus berkembang, baik dalam hal jumlah siswa, tenaga pendidik, maupun fasilitas yang disediakan. Dengan metode pembelajaran yang berbasis bermain dan eksplorasi, PAUD ini berkomitmen untuk memberikan pengalaman belajar yang menyenangkan serta membangun karakter anak sejak dini. Hingga kini, PAUD Sedap Malam terus berkomitmen untuk menjadi lembaga pendidikan usia dini yang unggul dan menjadi kebanggaan masyarakat. Dengan tenaga pendidik yang profesional dan fasilitas yang semakin memadai, PAUD ini siap mendampingi tumbuh kembang anak-anak menuju masa depan yang lebih cerah.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Visi Paud Sedap Malam 
+Menciptakan generasi anak usia dini yang cerdas, kreatif, dan berakhlak mulia dalam lingkungan belajar yang menyenangkan dan penuh kasih sayang.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Misi Paud Sedap Malam
+1. Menyelenggarakan pendidikan anak usia dini yang berbasis kasih sayang, kemandirian, dan karakter.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+2. Mengembangkan potensi anak secara optimal melalui metode pembelajaran yang aktif, inovatif, dan menyenangkan.
+
+3. Menanamkan nilai-nilai moral, sosial, dan budaya sebagai dasar pembentukan karakter anak.
+
+4. Membangun lingkungan belajar yang aman, nyaman, dan ramah anak.
+
+5. Meningkatkan peran serta orang tua dan masyarakat dalam mendukung tumbuh kembang anak secara holistik.
