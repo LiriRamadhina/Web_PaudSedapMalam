@@ -13,7 +13,7 @@ tags:
   - testimoni
 ---
 
-![PAUD Sedap Malam](/img/paud-sedap-malam.png)
+![PAUD Sedap Malam](/img/barissedapmalam.jpg)
 
 Kami menyambut tahun ajaran baru dengan semangat dan fasilitas terbaik di **PAUD Sedap Malam**. Sekolah ini hadir untuk memberikan pengalaman belajar pertama yang penuh kasih sayang, kreativitas, dan stimulasi perkembangan yang seimbang bagi anak-anak usia dini.
 

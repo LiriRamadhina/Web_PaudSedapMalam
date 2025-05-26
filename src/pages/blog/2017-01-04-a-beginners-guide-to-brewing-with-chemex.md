@@ -11,7 +11,7 @@ tags:
   - pendidikan anak
 ---
 
-![paud-sedap-malam](/img/paud-sedap-malam.png)
+![paud-sedap-malam](/img/belajardalamkelas.jpg)
 
 Minggu ini kami ingin berbagi beberapa **testimoni jujur** dari orang tua murid yang mempercayakan pendidikan awal anak-anak mereka di **PAUD Sedap Malam**. Lembaga ini dikenal dengan pendekatan belajar yang menyenangkan dan fokus pada pengembangan karakter sejak dini.
 
