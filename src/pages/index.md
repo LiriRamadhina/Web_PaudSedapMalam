@@ -10,8 +10,8 @@ mainpitch:
 description: >-
   Pendidikan dan stimulasi yang tepat sangat penting untuk membantu perkembangan mereka, seperti melalui bermain, bercerita, bernyanyi, dan eksplorasi. Anak usia dini juga membutuhkan kasih sayang, perhatian, dan lingkungan yang aman untuk mendukung pertumbuhan mereka secara optimal.
 
-subdescription:
-  Pendidikan dan stimulasi yang tepat sangat penting untuk membantu perkembangan mereka, seperti melalui bermain, bercerita, bernyanyi, dan eksplorasi. Anak usia dini juga membutuhkan kasih sayang, perhatian, dan lingkungan yang aman untuk mendukung pertumbuhan mereka secara optimal.
+subdescription: >-
+  
 intro:
   blurbs:
     - image: /img/bikinpizzapaud.jpg
